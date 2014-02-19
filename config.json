@@ -1,7 +1,7 @@
 {
-  "title": "Talk template",
-  "description": "My awesome talk description",
-  "author": "Tiago Garcia",
-  "email": "tgarcia@avenuecode.com",
-  "date": "Feb 11th, 2014"
+  "title": "The good war for UI",
+  "description": "The war of CSS frameworks: Explaining two frameworks and their differences, providing material to decide each one should we use on each situation",
+  "author": "Henrique Filho",
+  "email": "hfilho@avenuecode.com",
+  "date": "Feb 24th, 2014"
 }
