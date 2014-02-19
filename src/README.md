@@ -186,7 +186,7 @@ You should just edit the source file at src/README.md - the one which stars with
    - Bootstrap uses LESS and now SASS is compatible. Foundation uses *only* SASS(advanced with Libsass)
   - *Mobile First VS Mobile Also*
    - Foundation was made to be built on Mobile First
-   - Bootstrap has made to be built on Desktop and will
+   - Bootstrap was made to be built on Desktop and will also fit for mobile
 
 ----
 
@@ -216,8 +216,8 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Conclusion
 
-- *Chooise carefully* if you are going to use Frameworks
- - If so, you should check what you will really need for your project and which one is best for your purpoise (Features, Community, Mobile)
+- *Choose carefully* if you are going to use Frameworks
+ - If so, you should check what you will really need for your project and which one is best for your purpose (Features, Community, Mobile)
 - *Don't say that one is better then the other*
 - They are competing each other to create excellent options for UI developer, even on performance
  - *It's a healthy war for us*
