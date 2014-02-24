@@ -25,9 +25,9 @@ You should just edit the source file at src/README.md - the one which stars with
  - Foundation Zurb Overview
  - Examples
  - Right library for the project
- - Learn more
  - Conclusion
- - Assignment
+ - Learn more
+ - Challenge
 
 ---
 

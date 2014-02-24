@@ -25,9 +25,9 @@ Feb 24th, 2014
  - Foundation Zurb Overview
  - Examples
  - Right library for the project
- - Learn more
  - Conclusion
- - Assignment
+ - Learn more
+ - Challenge
 
 ---
 
