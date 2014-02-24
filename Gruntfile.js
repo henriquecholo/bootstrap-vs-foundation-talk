@@ -124,7 +124,9 @@ module.exports = function(grunt) {
           'css/styles.min.css': ['css/styles.css'],
           'css/print/paper.min.css': ['css/print/paper.css'],
           'css/print/pdf.min.css': ['css/print/pdf.css'],
-          'css/theme/avenuecode.min.css': ['css/theme/avenuecode.css']
+          'css/theme/avenuecode.min.css': ['css/theme/avenuecode.css'],
+          'css/theme/fd.min.css': ['css/theme/fd.css'],
+          'css/theme/bs.min.css': ['css/theme/bs.css']
         }
       }
     },
@@ -132,6 +134,8 @@ module.exports = function(grunt) {
       main: {
         files: {
           'src/css/theme/avenuecode.css': 'src/css/theme/source/avenuecode.scss',
+          'src/css/theme/fd.css': 'src/css/theme/source/fd.scss',
+          'src/css/theme/bs.css': 'src/css/theme/source/bs.scss'
         }
       }
     },

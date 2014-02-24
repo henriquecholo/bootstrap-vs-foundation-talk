@@ -24,24 +24,7 @@ You should just edit the source file at src/README.md - the one which stars with
  - Bootstrap Overview
  - Foundation Zurb Overview
  - Examples
-  - Grids
-  - Thumbnails
-  - Carousels
-  - Bars
-  - Responsive
-  - Features
-
-----
-
-## Agenda
-
  - Right library for the project
-  - Structure
-  - LESS X SASS
-  - Rems and Pixels
-  - Comunity
-  - Old and Cross Browsers
-  - Advantages and Disavantages
  - Learn more
  - Conclusion
  - Assignment
@@ -126,15 +109,29 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Examples - Grids
 
-- [Bootstrap Grid](http://getbootstrap.com/examples/grid/)
-- [Foundation Grid](http://foundation.zurb.com/grid-1.html)
+[Bootstrap Grid](http://getbootstrap.com/examples/grid/)
+<img src="img/bsGrid.png"/>
+
+----
+
+## Examples - Grids
+
+[Foundation Grid](http://foundation.zurb.com/grid-1.html)
+<img src="img/fdGrid.png"/>
 
 ----
 
 ## Thumbnails
 
-- [Bootstrap Thumbnail](http://getbootstrap.com/components/#thumbnails)
-- [Foundation Thumbnail](http://foundation.zurb.com/docs/components/thumbnails.html)
+[Bootstrap Thumbnail](http://getbootstrap.com/components/#thumbnails)
+<img src="img/bsThumbnails.png" height=400/>
+
+----
+
+## Thumbnails
+
+[Foundation Thumbnail](http://foundation.zurb.com/docs/components/thumbnails.html)
+<img src="img/fdThumbnails.png"/>
 
 ----
 
@@ -147,15 +144,21 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ----
 
-## Bars
+## Bootstrap Bars
 
-- Bootstrap
- - [Nav Bars](http://getbootstrap.com/components/#navbar)
- - [Progress Bars](http://getbootstrap.com/components/#progress)
+- [Nav Bars](http://getbootstrap.com/components/#navbar)
+<img src="img/bsNavBar.png"/>
+- [Progress Bars](http://getbootstrap.com/components/#progress)
+<img src="img/bsProgressBar.png"/>
 
-- Foundation
- - [Top Bars](http://foundation.zurb.com/docs/components/topbar.html)
- - [Progress Bars](http://foundation.zurb.com/docs/components/progress_bars.html)
+----
+
+## Foundation Bars
+
+- [Top Bars](http://foundation.zurb.com/docs/components/topbar.html)
+<img src="img/fdTopBar.png"/>
+- [Progress Bars](http://foundation.zurb.com/docs/components/progress_bars.html)
+<img src="img/fdProgressBar.png"/>
 
 ----
 
@@ -163,6 +166,7 @@ You should just edit the source file at src/README.md - the one which stars with
 
 - [Bootstrap Reponsive Utilities](http://getbootstrap.com/css/#responsive-utilities)
 - [Off Canvas (Only on Foundation)](http://foundation.zurb.com/docs/components/offcanvas.html)
+<img src="img/fdOffCanvas.png"/>
 
 ----
 
@@ -180,13 +184,12 @@ You should just edit the source file at src/README.md - the one which stars with
 ---
 
 ## Right library for the project
-  - Structure
-    - Both structures are simmilary: Install using *bower*, run with *grunt*, use *SASS*, *JS* codes and more
+  - Both structures are simmilary: Install using *bower*, run with *grunt*, use *SASS*, *JS* codes and more
   - LESS X SASS
-   - Bootstrap uses LESS and now SASS is compatible. Foundation uses *only* SASS(advanced with Libsass)
+   - Bootstrap uses LESS and now SASS is compatible. Foundation uses *only* SASS (advanced with Libsass)
   - *Mobile First VS Mobile Also*
    - Foundation was made to be built on Mobile First
-   - Bootstrap was made to be built on Desktop and will also fit for mobile
+   - Bootstrap was made to be built on Desktop and fit for mobile
 
 ----
 
@@ -194,21 +197,22 @@ You should just edit the source file at src/README.md - the one which stars with
 
   - *Old and Cross Browsers*
    - Bootstrap is compatible with more older browsers than Foundation
-   - Foundation uses more things on new browsers
+    - IE+8 Bootstrap x IE+9 Foundation
+    - Opera only on Bootstrap
+   - Foundation is compatible with more mobile browsers than Bootstrap
+    - Android 2-4, Windows Phone 7+, Surface (tablets)
    - Both are compatible with *newest browsers*
-  - Documentation
-   - The CSS documentation are *simmilary* on both
-   - The Javascript documentation for Foundation contains *images explaining the feature*, while Bootstrap does *not*
 
 ----
 
 ## Right library for the project
 
-  - *Rems and Pixels*
-   - Foundation uses REMS (percentage)
-   - Bootstrap uses Pixels
+  - Foundation uses *Rems* (percentage) x Bootstrap uses *Pixels*
   - UI Elements
    - Bootstrap has *more* UI elements than Foundation
+  - Documentation
+   - The CSS documentation are *simmilary* on both
+   - The JS doc for Foundation contains *images explaining the feature* x Bootstrap does *not*
   - Community
    - Bootstrap has the *most popular community*
 
@@ -232,6 +236,7 @@ You should just edit the source file at src/README.md - the one which stars with
  - Search for Bootstrap and Foundation
 1. [Bootstrap Official](http://getbootstrap.com)
 1. [Foundation Zurb Official](http://foundation.zurb.com)
+1. [Bootstrap Dashboard](http://startbootstrap.com/templates/sb-admin/index.html)
 
 ---
 
