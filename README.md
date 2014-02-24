@@ -222,7 +222,7 @@ Feb 24th, 2014
 
 - *Choose carefully* if you are going to use Frameworks
  - If so, you should check what you will really need for your project and which one is best for your purpose (Features, Community, Mobile)
-- *Don't say that one is better then the other*
+- *Don't say that one is better than the other*
 - They are competing each other to create excellent options for UI developer, even on performance
  - *It's a healthy war for us*
 
